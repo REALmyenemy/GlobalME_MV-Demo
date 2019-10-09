@@ -5,7 +5,7 @@ A project to unite my public plugins in MV.
 This project is a project to publish my plugins for RPG Maker MV. Individual Terms of Use are in the plugins themselves, make sure to read them! For most of them they are:
 
 
-You are not allowed to use this raw project as your own, use only as a reference, modify your copy...
+You are not allowed to use this raw project as your own, use only as a reference, modify your copy... But you can use all and any of the plugins in it for your projects.
 
 I also accept requests if they are not too hard, I'm not so good as Yanfly and others! PM me on rpgmakerweb and in a couple of days I'll tell you if I can take the request.
 
