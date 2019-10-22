@@ -4,9 +4,21 @@ A project to unite my public plugins in MV.
 
 
 This project is a project to publish my plugins for RPG Maker MV. Individual Terms of Use are in the plugins themselves, make sure to read them! For most of them they are:
-
+ - Common:
+   - Free to use as in money.
+   - Feel free to modify to redistribute it.
+   - This plugin comes as is, with no guarantees.
+   - I'll try to give support about it, but I can't say I will do it for sure.
+ - Non Commercial:
+   - No credit required unless you modify it then credit yourself, in other words, no claiming as your own!
+ - Commercial:
+   - Give credit me as the author of this plugin, I don't mind if you do so in some scene or some easter egg.
+   - Report any bugs, incompatibilities and issues with this plugin to me, even if you have someone else fixing them.
 
 You are not allowed to use this raw project as your own, use only as a reference, modify your copy... But you can use all and any of the plugins in it for your projects.
+
+
+To download, from this screen, just press download, then, as zip.
 
 
 I also accept requests if they are not too hard, I'm not so good as Yanfly and others! PM me on rpgmakerweb and in a couple of days I'll tell you if I can take the request.
