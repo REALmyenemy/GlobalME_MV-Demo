@@ -57,4 +57,7 @@ For requests, we agree to the following terms (and may talk about some others):
 	9. Never, ever, ever claim it as your own, so don't delete the author!
 
 
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S717SV2)
+
 Happy RPG Making!
